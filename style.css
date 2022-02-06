@@ -636,6 +636,7 @@ body {
 .experts {
   background-color: #fafbfd;
   padding: 103px 0 116px 0;
+  overflow:hidden
 }
 
 .experts__block-text {
@@ -724,14 +725,14 @@ body {
   width: 97px;
   height: 97px;
   right: 50%;
-  top: -40px;
-  transform: rotate(30deg);
+  top: -43px;
+  transform: rotate(13deg);
 }
 
 .statistics-experts__decor_3 {
   width: 128px;
   height: 128px;
-  right: -55px;
+  right: -50px;
   top: 0;
   transform: rotate(-30deg);
 }
@@ -793,6 +794,7 @@ body {
 
 .healthcare {
   padding: 80px 0px 30px 0px;
+  overflow:hidden
 }
 
 .healthcare__block-text {
